@@ -63,7 +63,7 @@ You can either use /help or the Commands Button Given Below To get a list of my 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🏹Summon ME🏹",url=f"t.me/{BOT_USERNAME}?startgroup=true"
+            text="✨Add me to your group✨",url=f"t.me/{BOT_USERNAME}?startgroup=true"
         ),
     ],
     [
@@ -73,7 +73,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-          text="📮 Updates", url="https://t.me/TangentXOfficial"
+          text="📮 Updates", url="https://t.me/Aviebotofficial"
         ),
     ],
          
@@ -84,7 +84,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-          text="✒ Source", url="https://github.com/IzumiCypherX/EmiliaAnimeBot" # If you have a bit of dignity left in you, Do NOT Remove this Button
+          text="✒ website", url="https://diputech.xyz" # If you have a bit of dignity left in you, Do NOT Remove this Button
         ),
      
     ],
